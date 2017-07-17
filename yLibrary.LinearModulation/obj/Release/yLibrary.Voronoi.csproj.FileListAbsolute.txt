@@ -1,0 +1,4 @@
+E:\Github\Fortune\yLibrary.LinearModulation\yLibrary.LinearModulation\bin\Release\yLibrary.LinearModulation.dll
+E:\Github\Fortune\yLibrary.LinearModulation\yLibrary.LinearModulation\bin\Release\yLibrary.LinearModulation.pdb
+E:\Github\Fortune\yLibrary.LinearModulation\yLibrary.LinearModulation\obj\Release\yLibrary.LinearModulation.dll
+E:\Github\Fortune\yLibrary.LinearModulation\yLibrary.LinearModulation\obj\Release\yLibrary.LinearModulation.pdb

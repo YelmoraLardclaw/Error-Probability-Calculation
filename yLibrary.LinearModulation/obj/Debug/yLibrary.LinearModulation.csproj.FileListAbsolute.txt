@@ -1,0 +1,12 @@
+E:\VS\Fortune\yLibrary.LinearModulation\yLibrary.LinearModulation\bin\Debug\yLibrary.LinearModulation.dll
+E:\VS\Fortune\yLibrary.LinearModulation\yLibrary.LinearModulation\bin\Debug\yLibrary.LinearModulation.pdb
+E:\VS\Fortune\yLibrary.LinearModulation\yLibrary.LinearModulation\obj\Debug\yLibrary.LinearModulation.csprojResolveAssemblyReference.cache
+E:\VS\Fortune\yLibrary.LinearModulation\yLibrary.LinearModulation\obj\Debug\yLibrary.LinearModulation.dll
+E:\VS\Fortune\yLibrary.LinearModulation\yLibrary.LinearModulation\obj\Debug\yLibrary.LinearModulation.pdb
+E:\Github\Fortune\yLibrary.LinearModulation\yLibrary.LinearModulation\bin\Debug\yLibrary.LinearModulation.dll
+E:\Github\Fortune\yLibrary.LinearModulation\yLibrary.LinearModulation\bin\Debug\yLibrary.LinearModulation.pdb
+E:\Github\Fortune\yLibrary.LinearModulation\yLibrary.LinearModulation\obj\Debug\yLibrary.LinearModulation.dll
+E:\Github\Fortune\yLibrary.LinearModulation\yLibrary.LinearModulation\obj\Debug\yLibrary.LinearModulation.pdb
+E:\Github\Fortune\yLibrary.LinearModulation\yLibrary.LinearModulation\obj\Debug\yLibrary.LinearModulation.csprojResolveAssemblyReference.cache
+E:\Github\Fortune\yLibrary.LinearModulation\yLibrary.LinearModulation\bin\Debug\yLibrary.LinearModulation.dll.CodeAnalysisLog.xml
+E:\Github\Fortune\yLibrary.LinearModulation\yLibrary.LinearModulation\bin\Debug\yLibrary.LinearModulation.dll.lastcodeanalysissucceeded

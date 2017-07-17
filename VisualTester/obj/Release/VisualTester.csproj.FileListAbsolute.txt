@@ -1,0 +1,8 @@
+E:\Github\Fortune\yLibrary.LinearModulation\VisualTester\bin\Release\VisualTester.exe.config
+E:\Github\Fortune\yLibrary.LinearModulation\VisualTester\bin\Release\VisualTester.exe
+E:\Github\Fortune\yLibrary.LinearModulation\VisualTester\bin\Release\VisualTester.pdb
+E:\Github\Fortune\yLibrary.LinearModulation\VisualTester\obj\Release\VisualTester.Mainform.resources
+E:\Github\Fortune\yLibrary.LinearModulation\VisualTester\obj\Release\VisualTester.Properties.Resources.resources
+E:\Github\Fortune\yLibrary.LinearModulation\VisualTester\obj\Release\VisualTester.csproj.GenerateResource.Cache
+E:\Github\Fortune\yLibrary.LinearModulation\VisualTester\obj\Release\VisualTester.exe
+E:\Github\Fortune\yLibrary.LinearModulation\VisualTester\obj\Release\VisualTester.pdb

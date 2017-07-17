@@ -1,0 +1,7 @@
+E:\Github\Fortune\yLibrary.LinearModulation\yLibrary.VoronoiFormatter\bin\Debug\yLibrary.VoronoiFormatter.dll
+E:\Github\Fortune\yLibrary.LinearModulation\yLibrary.VoronoiFormatter\bin\Debug\yLibrary.VoronoiFormatter.pdb
+E:\Github\Fortune\yLibrary.LinearModulation\yLibrary.VoronoiFormatter\bin\Debug\yLibrary.LinearModulation.dll
+E:\Github\Fortune\yLibrary.LinearModulation\yLibrary.VoronoiFormatter\bin\Debug\yLibrary.LinearModulation.pdb
+E:\Github\Fortune\yLibrary.LinearModulation\yLibrary.VoronoiFormatter\obj\Debug\yLibrary.VoronoiFormatter.csprojResolveAssemblyReference.cache
+E:\Github\Fortune\yLibrary.LinearModulation\yLibrary.VoronoiFormatter\obj\Debug\yLibrary.VoronoiFormatter.dll
+E:\Github\Fortune\yLibrary.LinearModulation\yLibrary.VoronoiFormatter\obj\Debug\yLibrary.VoronoiFormatter.pdb

@@ -1,0 +1,5 @@
+E:\Github\Fortune\yLibrary.LinearModulation\yLibrary.LinearModulation\bin\Debug\yLibrary.LinearModulation.dll
+E:\Github\Fortune\yLibrary.LinearModulation\yLibrary.LinearModulation\bin\Debug\yLibrary.LinearModulation.pdb
+E:\Github\Fortune\yLibrary.LinearModulation\yLibrary.LinearModulation\obj\Debug\yLibrary.LinearModulation.dll
+E:\Github\Fortune\yLibrary.LinearModulation\yLibrary.LinearModulation\obj\Debug\yLibrary.LinearModulation.pdb
+E:\Github\Fortune\yLibrary.LinearModulation\yLibrary.LinearModulation\obj\Debug\yLibrary.Voronoi.csprojResolveAssemblyReference.cache

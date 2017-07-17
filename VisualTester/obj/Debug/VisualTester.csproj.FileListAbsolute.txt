@@ -1,0 +1,12 @@
+E:\Github\Fortune\yLibrary.LinearModulation\VisualTester\bin\Debug\VisualTester.exe.config
+E:\Github\Fortune\yLibrary.LinearModulation\VisualTester\bin\Debug\VisualTester.exe
+E:\Github\Fortune\yLibrary.LinearModulation\VisualTester\bin\Debug\VisualTester.pdb
+E:\Github\Fortune\yLibrary.LinearModulation\VisualTester\obj\Debug\VisualTester.Mainform.resources
+E:\Github\Fortune\yLibrary.LinearModulation\VisualTester\obj\Debug\VisualTester.Properties.Resources.resources
+E:\Github\Fortune\yLibrary.LinearModulation\VisualTester\obj\Debug\VisualTester.csproj.GenerateResource.Cache
+E:\Github\Fortune\yLibrary.LinearModulation\VisualTester\obj\Debug\VisualTester.exe
+E:\Github\Fortune\yLibrary.LinearModulation\VisualTester\obj\Debug\VisualTester.pdb
+E:\Github\Fortune\yLibrary.LinearModulation\VisualTester\obj\Debug\VisualTester.csprojResolveAssemblyReference.cache
+E:\Github\Error Calculation\VisualTester\bin\Debug\VisualTester.exe.config
+E:\Github\Error Calculation\VisualTester\obj\Debug\VisualTester.exe
+E:\Github\Error Calculation\VisualTester\obj\Debug\VisualTester.pdb

@@ -1,0 +1,10 @@
+E:\Github\Fortune\yLibrary.LinearModulation\ConsoleFortune\bin\Debug\ConsoleFortune.exe.config
+E:\Github\Fortune\yLibrary.LinearModulation\ConsoleFortune\bin\Debug\ConsoleFortune.exe
+E:\Github\Fortune\yLibrary.LinearModulation\ConsoleFortune\bin\Debug\ConsoleFortune.pdb
+E:\Github\Fortune\yLibrary.LinearModulation\ConsoleFortune\bin\Debug\yLibrary.LinearModulation.dll
+E:\Github\Fortune\yLibrary.LinearModulation\ConsoleFortune\bin\Debug\yLibrary.VoronoiFormatter.dll
+E:\Github\Fortune\yLibrary.LinearModulation\ConsoleFortune\bin\Debug\yLibrary.LinearModulation.pdb
+E:\Github\Fortune\yLibrary.LinearModulation\ConsoleFortune\bin\Debug\yLibrary.VoronoiFormatter.pdb
+E:\Github\Fortune\yLibrary.LinearModulation\ConsoleFortune\obj\Debug\ConsoleFortune.csprojResolveAssemblyReference.cache
+E:\Github\Fortune\yLibrary.LinearModulation\ConsoleFortune\obj\Debug\ConsoleFortune.exe
+E:\Github\Fortune\yLibrary.LinearModulation\ConsoleFortune\obj\Debug\ConsoleFortune.pdb
